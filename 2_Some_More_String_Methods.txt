@@ -31,3 +31,14 @@ Converts the calling string to Upper case
 toLowerCase()
 
 Converts the calling string to lower case
+
+
+
+
+5.
+
+
+trim()
+
+
+removes the excessive white spaces from before and after a string
