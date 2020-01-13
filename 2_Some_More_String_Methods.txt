@@ -22,4 +22,12 @@ This function replaces a character passed in the calling string with the second 
 
 toUpperCase()
 
-Converts the calling string to Upper character
+Converts the calling string to Upper case
+
+
+4.
+
+
+toLowerCase()
+
+Converts the calling string to lower case
