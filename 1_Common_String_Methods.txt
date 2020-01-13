@@ -1,0 +1,10 @@
+Video 1
+
+
+Functions:
+
+1.
+
+startsWith()
+
+It checks if a particular string starts with a certain substring or character
