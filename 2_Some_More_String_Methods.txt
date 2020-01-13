@@ -6,3 +6,11 @@ Video 2
 concat()
 
 This function concatenates the calling string and passes string
+
+
+
+2.
+
+replace()
+
+This function replaces a character passed in the calling string with the second passed parameter character
