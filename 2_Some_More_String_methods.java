@@ -26,6 +26,12 @@ public class SomeMoreStringMethods {
 		String rep=a.replace('B','T'); 
 		System.out.println(a.replace('B','T'));
 		System.out.println(rep);
+		
+		
+		
+		System.out.println(b.toUpperCase());
+		System.out.println(b);
+		System.out.println(b.toLowerCase());
 	}
 
 }
