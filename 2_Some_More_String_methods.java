@@ -20,6 +20,12 @@ public class SomeMoreStringMethods {
 		
 		String con=a.concat(b);
 		System.out.println(con);
+		
+		
+		
+		String rep=a.replace('B','T'); 
+		System.out.println(a.replace('B','T'));
+		System.out.println(rep);
 	}
 
 }
