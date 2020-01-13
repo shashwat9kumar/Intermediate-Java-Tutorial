@@ -14,3 +14,12 @@ This function concatenates the calling string and passes string
 replace()
 
 This function replaces a character passed in the calling string with the second passed parameter character
+
+
+
+3.
+
+
+toUpperCase()
+
+Converts the calling string to Upper character
