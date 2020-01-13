@@ -8,3 +8,10 @@ Functions:
 startsWith()
 
 It checks if a particular string starts with a certain substring or character
+
+
+2.
+
+endsWith()
+
+It checks if a particular string ends with a certain substring or character
