@@ -10,6 +10,13 @@ public class SomeMoreStringMethods {
 		System.out.println(s.indexOf("shit"));
 		System.out.println(s.indexOf('x'));
 		System.out.println(s.indexOf("shw",17));
+		
+		
+		
+		String a="Bacon ";
+		String b="      Monster      ";
+		
+		System.out.println(a+b);
 	}
 
 }
