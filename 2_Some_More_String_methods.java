@@ -32,6 +32,11 @@ public class SomeMoreStringMethods {
 		System.out.println(b.toUpperCase());
 		System.out.println(b);
 		System.out.println(b.toLowerCase());
+		
+		
+		System.out.println(b);
+		System.out.println(b.trim());
+		System.out.println(b);
 	}
 
 }
