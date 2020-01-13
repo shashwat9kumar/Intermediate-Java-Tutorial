@@ -17,6 +17,9 @@ public class SomeMoreStringMethods {
 		String b="      Monster      ";
 		
 		System.out.println(a+b);
+		
+		String con=a.concat(b);
+		System.out.println(con);
 	}
 
 }
