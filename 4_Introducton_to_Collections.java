@@ -9,7 +9,7 @@ public class Introduction_to_Collections {
 		// add array items to list
 		
 		
-		for(String x : things1)
+		for(String x : things1)              // adding elements to array List
 		{
 			list1.add(x);
 		}
@@ -29,7 +29,7 @@ public class Introduction_to_Collections {
 		
 		
 		
-		for(int i=0;i<list1.size();i++)
+		for(int i=0;i<list1.size();i++)             // Printing array list
 		{
 			System.out.print(list1.get(i)+ " ");
 		}
