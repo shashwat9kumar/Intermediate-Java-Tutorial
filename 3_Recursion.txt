@@ -1,1 +1,28 @@
+Video 3
 
+
+Recursion 
+
+
+Recursion is a method of calling the called functionin itself
+
+
+example:
+
+5!=120
+
+5!=5.4.3.2.1 
+
+
+If a method of fact(number) exists
+it is called as follows:    
+
+
+
+  =fact(5)
+  =5.fact(4)
+  =5.4.fact(3)
+  =5.4.3.fact(2)
+  =5.4.3.2.fact(1)
+  =5.4.3.2.1
+  =120
