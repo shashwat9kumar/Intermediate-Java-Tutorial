@@ -42,7 +42,7 @@ public class Introduction_to_Collections {
 		
 		
 		
-		System.out.println(list1);
+		System.out.println(list1);               // Another way of printing the ArrayList
 		System.out.println(list2);
 		
 		
