@@ -40,6 +40,12 @@ public class Introduction_to_Collections {
 		}
 		
 		
+		
+		
+		System.out.println(list1);
+		System.out.println(list2);
+		
+		
 	}
 
 }
