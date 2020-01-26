@@ -1,0 +1,18 @@
+Video 7
+
+functions:
+
+
+list.subList(startIndex,LastIndex)    : returns a portion of a list from starting index through LastIndex
+
+list.clear()                          : clears the contents specified from the list intended
+
+ListIterator<String> shash= new l.listIterator(<statingIndex>);   : to have an iterator to loop through the entire list
+
+shash.hasPrevious()   : to check if it has a previous element
+
+shash.previous()      : to return the previous element and move iterator there
+
+shash.hasNext()   : to check if it has a next element
+
+shash.next()      : to return the next element and move iterator there
