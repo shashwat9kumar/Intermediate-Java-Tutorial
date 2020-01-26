@@ -1,0 +1,23 @@
+Video 6
+
+
+How to create a linked list in Java
+
+Its inside the util package
+
+{
+
+java.util.*
+java.util.List
+
+}
+
+
+List<String> list1 = new java.util.LinkedList<String>();
+
+
+
+Functions:
+
+list1.add(x)     :  to add x to a list
+list1.addAll(list2)   : to add a complete list to an existing list
